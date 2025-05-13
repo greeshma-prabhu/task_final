@@ -78,3 +78,9 @@ pytest
 curl -X POST http://localhost:5000/api/tasks \
 -H "Content-Type: application/json" \
 -d '{"title":"New Task","description":"This is a sample task","due_date":"2025-05-20","priority":"High"}'
+
+>🔍 Get Task by ID
+bash
+Copy
+Edit
+curl http://localhost:5000/api/tasks/1
