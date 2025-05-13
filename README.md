@@ -62,3 +62,12 @@ python app.py
 
 pytest
 
+## :computer: API Endpoints
+
+| Method | Endpoint                      | Description                     |
+|--------|-------------------------------|---------------------------------|
+| POST   | `/api/tasks`                 | Create a new task               |
+| GET    | `/api/tasks/{id}`            | Retrieve a task by ID           |
+| GET    | `/api/tasks`                 | List all tasks (with filters)   |
+| PUT    | `/api/tasks/{id}/status`     | Update the status of a task     |
+
