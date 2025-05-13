@@ -36,3 +36,15 @@ Step 2: Install the required Python packages.
 
 
 pip install -r requirements.txt
+
+### 3. Set Up Database
+
+> **Step 3**: Set up your PostgreSQL database (locally or on a cloud service). Configure the connection using environment variables:
+
+
+export DB_HOST=localhost
+export DB_PORT=5432
+export DB_NAME=task_db
+export DB_USER=your_db_user
+export DB_PASSWORD=your_db_password
+
