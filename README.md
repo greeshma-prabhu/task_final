@@ -83,3 +83,18 @@ curl -X POST http://localhost:5000/api/tasks \
 
 
 curl http://localhost:5000/api/tasks/1
+
+
+>📋 List All Tasks
+
+
+curl http://localhost:5000/api/tasks
+
+>🔁 Update Task Status
+
+
+curl -X PUT http://localhost:5000/api/tasks/1/status \
+-H "Content-Type: application/json" \
+-d '{"status":"Completed"}'
+
+
