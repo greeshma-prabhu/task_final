@@ -54,3 +54,11 @@ export DB_PASSWORD=your_db_password
 
 
 python app.py
+
+### 5. Running Tests
+
+> **Step 5**: Run the unit tests using `pytest`.
+
+
+pytest
+
