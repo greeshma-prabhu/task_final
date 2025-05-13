@@ -31,7 +31,7 @@ git clone https://github.com/greeshma-prabhu/task_final.git
 cd task_final
 
 > 2. Install Dependencies
-Step 2: Install the required Python packages.
+**Step 2**: Install the required Python packages.
 
 
 
@@ -48,3 +48,9 @@ export DB_NAME=task_db
 export DB_USER=your_db_user
 export DB_PASSWORD=your_db_password
 
+### 4. Run the Application
+
+> **Step 4**: Start the Flask application.
+
+
+python app.py
