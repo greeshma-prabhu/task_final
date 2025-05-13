@@ -26,14 +26,13 @@ A backend service to manage tasks, built with Python and PostgreSQL. The service
 
 > **Step 1**: Clone the repository to your local machine.
 
-```bash
+
 git clone https://github.com/greeshma-prabhu/task_final.git
 cd task_final
 
-2. Install Dependencies
+> 2. Install Dependencies
 Step 2: Install the required Python packages.
 
-bash
-Copy
-Edit
+
+
 pip install -r requirements.txt
