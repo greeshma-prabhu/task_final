@@ -98,3 +98,9 @@ curl -X PUT http://localhost:5000/api/tasks/1/status \
 -d '{"status":"Completed"}'
 
 
+## :sparkles: Author
+
+Developed by [T Greeshma Prabhu](https://github.com/greeshma-prabhu)  
+📍 Karkala, Karnataka  
+🎓 B.E. in Artificial Intelligence and Data Science  
+✉️ prabhugreeshma413@gmail.com
