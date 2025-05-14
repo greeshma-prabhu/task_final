@@ -3,7 +3,7 @@
 This is a microservice-based Task Management backend built with Flask and SQLite.
 
 ## 🚀 Hosted Link
-👉 [Live API on Render]((https://task-api-bm4j.onrender.com/api/tasks)
+👉 [Live API on Render](https://task-api-bm4j.onrender.com/api/tasks)
 
 
 ## Tech Stack
