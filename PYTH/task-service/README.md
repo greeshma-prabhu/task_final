@@ -1,6 +1,10 @@
 # Task Management Service
 
-A RESTful API service for managing tasks with CRUD operations, filtering, and pagination.
+This is a microservice-based Task Management backend built with Flask and SQLite.
+
+## 🚀 Hosted Link
+👉 [Live API on Render]((https://task-api-bm4j.onrender.com/api/tasks)
+
 
 ## Tech Stack
 
@@ -242,6 +246,7 @@ Error responses include a message and, for validation errors, detailed informati
 
 
 
+
 Clone the repository
 Create and activate a Python virtual environment: python -m venv venv && source venv/bin/activate
 Install dependencies: pip install -r requirements.txt
@@ -251,3 +256,11 @@ flask db migrate -m "Initial migration"
 flask db upgrade
 Start the application: flask run
 The API will be accessible at http://localhost:5000/api/tasks
+
+
+## :sparkles: Author
+
+Developed by [T Greeshma Prabhu](https://github.com/greeshma-prabhu)  
+📍 Karkala, Karnataka  
+🎓 B.E. in Artificial Intelligence and Data Science  
+✉️ prabhugreeshma413@gmail.com
